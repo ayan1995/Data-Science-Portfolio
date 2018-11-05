@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Data Science Portfolio
 This repository contains data science content such as machine learning/ predictive modeling projects and data analytic report which are all done in Python.
 
