@@ -13,5 +13,5 @@ This repository contains data science content such as machine learning/ predicti
   Using a combination of Tf-IDF Vectorizers with clustering and supervised learning techniques to classify classical books by author. Here, I compare the performance of multiple models and clustering algorithms to determine which model classify texts with the highest accuracy.
   
 ## Exploratory Data Analysis
-  [Cryptocurrency Market Exploration](https://github.com/ayan1995/Data-Science-Portfolio/blob/94ed33812c8b1bf1293a96f5087a0fc762805074/CryptoCurrency%20Data%20Exploration/Ayan%20Karim%20Cryptocurrency%20Capstone.ipynb): Exploring trends and relationships in cryptocurrency using historic market data to gain insight on common characteristics amongst popular cryptos for the sake of future research.
+  [Cryptocurrency Market Exploration](https://github.com/ayan1995/DataDriven/blob/cba347d8735605850eb251aba12c9453c528adf1/CryptoCurrency%20Data%20Exploration/Cryptocurrency%20Market%20Exploration%20%20by%20Ayan%20Karim.ipynb): Exploring trends and relationships in cryptocurrency using historic market data to gain insight on common characteristics amongst popular cryptos for the sake of future research.
 
