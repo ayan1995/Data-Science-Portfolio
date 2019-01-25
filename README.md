@@ -5,7 +5,7 @@ This repository contains data science content such as machine learning/ predicti
 ## Machine Learning
 
 ### Supervised Learning
-  [Predicting Student Attendance and Analyzing Influencing Factors at New York Public Schools](https://github.com/ayan1995/Data-Science-Portfolio/blob/a258d71181c623c3f9f81b36d58169d82b443e2b/Passnyc%20Predicting%20Attendance/Capstone%20Passnyc%20Data.ipynb):
+  [Predicting Student Attendance and Analyzing Influencing Factors at New York Public Schools](https://github.com/ayan1995/DataDriven/blob/cba347d8735605850eb251aba12c9453c528adf1/Passnyc%20Predicting%20Attendance/Passnyc%20Predicting%20Attendance.ipynb):
   Using supervised learning models to predict student attendance rate at public schools in New York and then classifying schools that require external support. This investigation helps PASSNYC (non-profit organization) target schools for funding after-school programs and other resources to support the community.
   
 ### Natural Language Processing
