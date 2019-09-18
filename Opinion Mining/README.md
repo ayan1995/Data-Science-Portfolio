@@ -13,4 +13,4 @@ The files are in order of the pipeline required for the entire project. The firs
 
 The next codebooks are shown below, in order, with direct links to the codebook:
 ### 1. [01 Opinion Mining - Topic Modeling](https://github.com/ayan1995/DataDriven/blob/98d094c9847df1b7b96641b723d24a43e1b6eadb/Opinion%20Mining/01%20Topic%20Modelling/Opinion%20Mining%20-%20Topic%20Modeling.ipynb)
-### 2. [02 Opinion Mining - Opinion Mining - Aspect Based Sentiment Analysis](https://github.com/ayan1995/Thinkful/blob/430d48ac872b86c512d4a16c90b6c7c98a7d51c0/Bootcamp/Final%20Capstone%20Opinion%20Mining/Opinion%20Mining/Notebooks/02%20Opinion%20Mining/Opinion%20Mining%20-%20Aspect%20Based%20Sentiment%20Analysis.ipynb)
+### 2. [02 Opinion Mining - Opinion Mining - Aspect Based Sentiment Analysis](https://github.com/ayan1995/DataDriven/blob/8ab04bb19bc987f6f85c7b9676d928a3cd6b817b/Opinion%20Mining/02%20Opinion%20Mining/Opinion%20Mining%20-%20Aspect%20Based%20Sentiment%20Analysis.ipynb)
