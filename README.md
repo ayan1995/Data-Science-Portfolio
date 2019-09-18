@@ -19,5 +19,5 @@ My endeavor with this project is to create a pipeline that solves this problem. 
   Using supervised learning models to predict student attendance rate at public schools in New York and then classifying schools that require external support. This investigation helps PASSNYC (non-profit organization) target schools for funding after-school programs and other resources to support the community.
   
 ## Exploratory Data Analysis
-  [Cryptocurrency Market Exploration](https://github.com/ayan1995/DataDriven/blob/cba347d8735605850eb251aba12c9453c528adf1/CryptoCurrency%20Data%20Exploration/Cryptocurrency%20Market%20Exploration%20%20by%20Ayan%20Karim.ipynb): Exploring trends and relationships in cryptocurrency using historic market data to gain insight on common characteristics amongst popular cryptos for the sake of future research.
+  [Cryptocurrency Market Exploration](https://github.com/ayan1995/DataDriven/blob/f97c902186fa2cc7f2913f55b685b65642c03f6a/CryptoCurrency%20Data%20Exploration/Cryptocurrency%20Market%20Exploration%20%20by%20Ayan%20Karim.ipynb): Exploring trends and relationships in cryptocurrency using historic market data to gain insight on common characteristics amongst popular cryptos for the sake of future research.
 
